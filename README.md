@@ -2,7 +2,7 @@ Hello! 👋
 I'm Prem Kumar
 a second year undergrad pursuing B.Tech in Computer Science at IIIT Bhagalpur.
 
-- 🔭 Building : @OtareaEDU ( https://Otarea.me ) and @InDesign ( A web and UI design agency )
+- 🔭 Building : @OtareaEDU ( https://Otarea.in ) and @InDesign ( A designing solution )
 - 🌱 learning : DSA with C++ | UI Engineering | JavaScript
 - 👯 looking to collaborate on : App and Web Development ( especially cross-platforms )
 - 🤔 looking for help with : Open source contribution | machine learning 
