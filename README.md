@@ -1,3 +1,6 @@
+<p align=”center”>
+<img width=”100%" height=”200" src=”https://github.com/rpremOfficial/rpremOfficial/blob/main/Pink%20and%20Purple%20Professional%20LinkedIn%20Banner%20png.png" alt=”my banner”>
+</p>
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 <h3 align="center">A Passionate Developer with keen interest in Design</h3>
 
