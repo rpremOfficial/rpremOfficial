@@ -35,4 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpremofficial&show_icons=true&locale=en&layout=compact" alt="rpremofficial" />
 
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rpremofficial&show_icons=true&locale=en" alt="rpremofficial" /></p>
+&nbsp;<img align="right" width="440px" src="https://github-readme-stats.vercel.app/api?username=rpremofficial&show_icons=true&locale=en" alt="rpremofficial" /></p>
