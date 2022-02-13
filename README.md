@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://blog.otarea.in](https://blog.otarea.in)
 
-- 💬 Ask me about **Web Development | UI designing | C# , DotNet**
+- 💬 Ask me about **Web Development | UI/UX designing | C# , DotNet**
 
 - 📫 How to reach me **prem@otarea.in**
 
