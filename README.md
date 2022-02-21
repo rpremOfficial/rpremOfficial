@@ -6,13 +6,13 @@
 
 - 👨‍💻 Learning **DSA with C++ | React**
 
-- 🤝 Looking to collaborate on **App and Web Development**
+- 🤝 Looking to collaborate on **App (flutter) and Web Development**
 
 - 👨‍💻 All of my projects are available at [http://rprem.live](http://rprem.live)
 
 - 📝 I regularly write articles on [https://blog.otarea.in](https://blog.otarea.in)
 
-- 💬 Ask me about **Web Development | UI/UX designing | C# , DotNet**
+- 💬 Ask me about **Web Development | UI/UX designing | C++ **
 
 - 📫 How to reach me **prem@otarea.in**
 
