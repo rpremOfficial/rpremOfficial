@@ -15,7 +15,7 @@ Passionate for development & design, and always ready to have new experiences, m
 
 - 💬 Ask me about **C++ | DSA | Web Development | UI/UX**
 
-- 📫 How to reach me **prem@otarea.in**
+- 📫 How to reach me **premraj259@outlook.com**
 
 - 🧘‍♂️ **Learning Life: To live the best life possible**
 
