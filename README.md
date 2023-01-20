@@ -19,7 +19,7 @@ Passionate for development & design, and always ready to have new experiences, m
 
 - 🧘‍♂️ **Learning Life: To live the best life possible**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/premstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rpremofficial" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rpremofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rpremofficial" height="30" width="40" /></a>
